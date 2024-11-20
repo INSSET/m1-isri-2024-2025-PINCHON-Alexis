@@ -2,6 +2,7 @@ from flask import Flask, request
 
 app = Flask(__name__)
 
+
 @app.route('/')
 def recup():
     return '''
@@ -26,6 +27,7 @@ def recup():
     </html>
     '''
 
+
 @app.route('/submit', methods=['POST'])
 def soumettre():
     nom = request.form['name']
@@ -34,7 +36,9 @@ def soumettre():
     with open("donnees_recup.txt", "a") as fichier:
         fichier.write(f"Nom: {nom}, Email: {email}\n")
 
+
     return f"Merci {nom}, vos données ont été enregistrées !"
+
 
 if __name__ == '__main__':
     app.run(debug=True)
