@@ -18,7 +18,7 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
-          
+
 
   test:
     runs-on: ubuntu-latest
@@ -39,4 +39,5 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest --maxfail=1 --disable-warnings -q
+          mkdir -p tests/rapport
+          pytest --cov=app/lib --cov-report=html --html=tests/rapport/index.html
