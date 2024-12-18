@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d60eb68-ba8a-4746-98ea-8901b9987591" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/app/lib/FichierVisiteur.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/app/lib/Validateur.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/app/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/tests/rapport/assets/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/tests/rapport/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/tests/test_FichierValidateur.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/tests/test_Validateur.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ligne.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vboxpostinstall.sh" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +135,7 @@
       <workItem from="1733320630601" duration="128000" />
       <workItem from="1733320792065" duration="6815000" />
       <workItem from="1733328916441" duration="2170000" />
-      <workItem from="1734510047049" duration="5433000" />
+      <workItem from="1734510047049" duration="6309000" />
     </task>
     <servers />
   </component>
