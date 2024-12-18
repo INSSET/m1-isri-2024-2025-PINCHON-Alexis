@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d60eb68-ba8a-4746-98ea-8901b9987591" name="Changes" comment="" />
+    <list default="true" id="0d60eb68-ba8a-4746-98ea-8901b9987591" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/app/lib/FichierVisiteur.py" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/app/lib/FichierVisiteur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/tests/test_FichierValidateur.py" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/tests/test_FichierValidateur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/tests/test_Validateur.py" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/tests/test_Validateur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -35,18 +40,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python.FichierVisiteur.executor": "Run",
+    "Python.Validateur.executor": "Run",
     "Python.recup.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "seance5-test-unitaire",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alexi/Documents/GitHub/m1-isri-2024-2025-PINCHON-Alexis",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.updates",
@@ -57,6 +66,44 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alexi\Documents\GitHub\m1-isri-2024-2025-PINCHON-Alexis\.github/workflows" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="m1-isri-2024-2025-PINCHON-Alexis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="m1-isri-2024-2025-PINCHON-Alexis" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -76,6 +123,11 @@
       <updated>1732111989851</updated>
       <workItem from="1732111991099" duration="7896000" />
       <workItem from="1733301580133" duration="64000" />
+      <workItem from="1733317785130" duration="2311000" />
+      <workItem from="1733320630601" duration="128000" />
+      <workItem from="1733320792065" duration="6815000" />
+      <workItem from="1733328916441" duration="2170000" />
+      <workItem from="1734510047049" duration="3495000" />
     </task>
     <servers />
   </component>

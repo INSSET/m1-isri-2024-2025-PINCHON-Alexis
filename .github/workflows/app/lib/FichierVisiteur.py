@@ -1,4 +1,4 @@
-from Validateur import Validateur
+from app.lib.Validateur import Validateur
 
 class FichierVisiteur:
 
