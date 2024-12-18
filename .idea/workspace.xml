@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d60eb68-ba8a-4746-98ea-8901b9987591" name="Changes" comment="" />
+    <list default="true" id="0d60eb68-ba8a-4746-98ea-8901b9987591" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/Main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/Main.yml" afterDir="false" />
+    </list>
+    <list id="92a98162-53db-455f-96f0-47de5c0ef123" name="Changes by norse" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
