@@ -24,7 +24,7 @@ def test_lecture_visiteurs(setup_fichier):
     fichier.ajout("Alice", "Bob")
     fichier.ajout("Eve", "William")
     visiteurs = fichier.tout_lire()
-    assert visiteurs == ["Alice,Bob", "Jean,Simon"]
+    assert visiteurs == ["Alice,Bob", "Eve,William"]
 
 def test_ajout_visiteur_invalide(setup_fichier):
     fichier = FichierVisiteur(CHEMIN_TEST)
