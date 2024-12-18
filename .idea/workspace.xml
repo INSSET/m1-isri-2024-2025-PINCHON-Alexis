@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d60eb68-ba8a-4746-98ea-8901b9987591" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/app/lib/Validateur.py" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/app/lib/Validateur.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/tests/test_FichierValidateur.py" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/tests/test_FichierValidateur.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -126,7 +124,7 @@
       <workItem from="1733320630601" duration="128000" />
       <workItem from="1733320792065" duration="6815000" />
       <workItem from="1733328916441" duration="2170000" />
-      <workItem from="1734510047049" duration="4568000" />
+      <workItem from="1734510047049" duration="5433000" />
     </task>
     <servers />
   </component>
